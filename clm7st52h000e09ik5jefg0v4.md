@@ -270,6 +270,10 @@ curl [http://3.21.242.206:30007](http://3.21.242.206:30007)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694005578094/335cbf79-aa5f-488c-9e39-2f3f0e693692.png align="center")
 
+To test the microservices run **curl http://3.21.242.206:30007/tasks**
+
+This should also give you an output that the **"Task was saved successfully!"**
+
 That's all folks! There we have it! An application that is based on microservices architecture deployed using Kubernetes.
 
 I would love to hear back on how was this project execution and if there is any scope for improvements!
