@@ -238,6 +238,10 @@ That's all... This execution will trigger the container we just built😎😎�
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697392701991/8dfa92e0-8582-4ec8-b4c9-e61af30fba2f.png align="center")
 
+After all the execution, **please make sure you delete all the resources you created to avoid the bill.**
+
 # Conclusion
 
 By offering a safe, scalable, and fully managed container registry service, Amazon ECR makes managing Docker containers easier. Because it offers easy connectivity with other AWS services, it is especially helpful for businesses using containerized applications in AWS settings. ECR is an easy way to store Docker containers for an organization, and when integrated with Lambda functions, this can be a fantastic tool to deploy configurations quickly.
+
+After all this, please make sure you delete all the resources you created
