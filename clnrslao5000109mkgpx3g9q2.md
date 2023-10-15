@@ -70,7 +70,7 @@ When I started learning more about DevOps, ECR, EKS, ECS, etc., something struck
 
 # The Process
 
-[Here](https://github.com/Ghatodghachh/ECR-Lambda.git) is the link access to the repository for the files necessary to perform the same project.
+[Here](https://github.com/Ghatodghachh/ECR-Lambda.git) is the link to access the repository for the files necessary to perform the same project.
 
 1&gt; Setup an EC2 instance with the below configuration:
 
