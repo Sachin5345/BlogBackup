@@ -12,7 +12,7 @@ Before we quickly dive into the topic of HPA, we need to understand a few terms 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703076351636/1fd101bc-065c-43bb-824a-14242a537a83.gif align="center")
 
-The first among these is **Deployment**. 
+The first among these is **Deployment**.
 
 # Deployment
 
@@ -56,9 +56,9 @@ spec:
 
 The second one to understand is **StatefulSet**.
 
-StatefulSet
+# StatefulSet
 
-### Use Case:
+### Use Case
 
 * StatefulSets are designed for stateful applications that require stable network identities and persistent storage.
     
