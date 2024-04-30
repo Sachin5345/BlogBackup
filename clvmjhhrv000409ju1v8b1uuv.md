@@ -368,4 +368,8 @@ While all this process is going on, we can have a look on various logs. Here are
 
 So by doing all this what do we understand? The answer to this question is the importance of building CICD pipelines and integrating various tools with it. In a nutshell, CI CID pipelines are absolutely useful in deploying and automating tasks that can take a long time to execute if they are to be manually run. However, with the introduction of CICD everything gets streamlined. It is also worth noting that tools like Docker have been playing marvelous role in making the application lightweight and also deployable anywhere with all the required dependencies. With tools like Trivy and SonarQube administrators/DevOps engineers can be absolutely sure about the quality of the code and threat analysis in the environment.
 
+Last but not the least:  
+
+**<mark>Remember to clean up the resources you have created on the project since these can incur a good amount of billing.</mark>**
+
 I hope you found this project helpful. Do let me know if there was something that could have been done better.
